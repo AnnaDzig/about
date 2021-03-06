@@ -8,10 +8,10 @@ _A student of The Rolling Scopes School._
  - Phone/Telegram/Viber: +380974811561;
  - LinkedIn: www.linkedin.com/in/ann-dzhyhota
 
-### About Me
+### About Me:
 Creative and self-starting Front-End Developer with no experience but with a huge willing of building stable eCommerce websites and apps in fast-paced, collaborative environments. Skilled in HTML/CSS/JavaScript/ and  knowledge of Figma. 
 
-### Education
+### Education:
 Petro Mohyla Black Sea National University,department of Sociology, Master's degree in Social work.
 
 ### Additional education: 
