@@ -6,6 +6,7 @@ _A student of The Rolling Scopes School._
  - Ukraine, Mykolaiv;
  - Email Adress: adzyhota@protonmail.com; 
  - Phone/Telegram/Viber: +380974811561;
+ - LinkedIn: www.linkedin.com/in/ann-dzhyhota
 
 ### About Me
 Creative and self-starting Front-End Developer with no experience but with a huge willing of building stable eCommerce websites and apps in fast-paced, collaborative environments. Skilled in HTML/CSS/JavaScript/ and  knowledge of Figma. 
